@@ -1,0 +1,2 @@
+# warframe_database
+warframe_market_apiで取得したデータを自分のデータベースへ追加するコードです
