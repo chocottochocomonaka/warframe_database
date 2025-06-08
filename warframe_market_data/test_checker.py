@@ -9,7 +9,7 @@ import time
 
 #アイテムのデータ一覧を取得
 def item_list():
-    time.sleep(1)
+    time.sleep(0.33)
     url = "https://api.warframe.market/v1/items"
     response = requests.get(url)
     data = response.json()
